@@ -2,7 +2,7 @@
 
 In this project, we write a 'PSO_Optimizer' class that is capable to minimize functions with arbitrary number of variables (dimensions). We test its performance with 4 functions with increasing complexity or dimension:
 
-![Image](formulas.png)
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/functions.png" width="800"/>
 
 Their plots along with the optimization results gotten by Mathematica are as follows:
 
@@ -13,7 +13,7 @@ Their plots along with the optimization results gotten by Mathematica are as fol
 
 And here're the results from the PSO optimizer:
 
-<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/functions.png" width="1000"/>
+<img src="https://raw.githubusercontent.com/JiayuX/Generic-Function-Optimizer-via-Particle-Swarm-Algorithm/main/results.png" width="1000"/>
 
 
 The optimizer can accurately locate the minimum of all 4 functions with high efficiency. For example, with 600 particles and 100 iterations, it only takes about 0.05 seconds to finish minimizing func4.
