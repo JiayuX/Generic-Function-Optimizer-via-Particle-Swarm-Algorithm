@@ -2,7 +2,7 @@
 
 In this project, we write a 'PSO_Optimizer' class that is capable to minimize functions with arbitrary number of variables (dimensions). We test its performance with 4 functions with increasing complexity or dimension. 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+$e^{i \pi} = -1$
 
 Their plots along with the optimization results gotten by Mathematica are as follows:
 
