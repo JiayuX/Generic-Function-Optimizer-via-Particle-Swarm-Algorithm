@@ -6,10 +6,10 @@ In this project, we write a 'PSO_Optimizer' class that is capable to minimize fu
 
 Their plots along with the optimization results gotten by Mathematica are as follows:
 
-![Image](func1.png | width=100)
-![Image](func2.png | width=100)
-![Image](func3.png | width=100)
-![Image](func4.png | width=100)
+![Image](func1.png width="100")
+![Image](func2.png width="100")
+![Image](func3.png width="100")
+![Image](func4.png width="100")
 
 The optimizer can accurately locate the minimum of all 4 functions with high efficiency. For example, with 600 particles and 100 iterations, it only takes about 0.05 seconds to finish minimizing func4.
 
